@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">FirestorePractice</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign up</string>
+    <string name="email">"email: "</string>
+    <string name="message">user sign up successfully</string>
+    <string name="error_message">Something went wrong</string>
+    <string name="password_not_match">Password not match</string>
+    <string name="login_message_success">Logged in successfully</string>
+    <string name="create_account">Create account</string>
+    <string name="create_account_success">account created successfully!</string>
+    <string name="create_account_btn">Create Account</string>
+    <string name="welcome">"Welcome, "</string>
+    <string name="create_room">Create room</string>
+    <string name="join_room">Join room</string>
+    <string name="email_field">email</string>
+    <string name="room_success_msg">room created successfully!</string>
+    <string name="join_room_title">Join Room</string>
+    <string name="join">join</string>
+    <string name="room_id">room id</string>
+    <string name="users_title">Users</string>
+    <string name="room_id_title">"Room id: "</string>
+    <string name="play_video">play video</string>
+    <string name="name">name</string>
+</resources>
